@@ -1,0 +1,4 @@
+rootProject.name='DemoLib'
+include ':app'
+include ':JavaLib'
+include ':demolib2'
